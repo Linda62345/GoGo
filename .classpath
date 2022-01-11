@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/licc/Desktop/慈琳/大學一年級/程式設計專案一下/Test 2/WebContent/WEB-INF/lib/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="/Users/licc/Desktop/java/lab10/HW10/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="/Users/licc/Desktop/tomcat/apache-tomcat-9.0.56/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
